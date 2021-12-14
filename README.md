@@ -1,2 +1,33 @@
-# Crypto_Arbitrage
-UNCC Fintech Weekly Challenge - Module 3
+# Bitcoin Arbitrage Analysis
+
+Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+
+---
+
+## Technologies
+
+THe followiong import/modules were used:
+
+Panda's-
+Path from pathlib-
+Matplotlib inline-
+
+---
+
+## Usage
+
+This section should include screenshots, code blocks, or animations explaining how to use your project.
+
+---
+
+##Contributors
+Professor-Jorgage Alfonzo: Educational guidance, Teachers Assistant-Lee Hages: coding support, Gabriella Manis: Administrative Assistant: Administrative support
+
+---
+##License
+
+This analysis was performed by Derek Hall under the guidance of UNCC-Fintech team and faculty which commenced on 11-17-2021. Any Unauthorized use and/or duplication of this material without expressed and written permission from Derek Hall of Hderek22@gmail.com is strictly prohibited. Excerps and links may be used, provided that full and clear credit is given to Derek Hall with appropriate and specific direction to the original content.
+
+##DISCLAIMER
+I’m not a certified financial planner/advisor.  By reviewing this information, you agree to hold me harmless from any ramifications, financial or otherwise, that occur to you as a result of acting on information found in this analysis.
+
