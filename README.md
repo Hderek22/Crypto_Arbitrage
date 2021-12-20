@@ -1,21 +1,15 @@
 # Bitcoin Arbitrage Analysis
 
-An in depth look into Bitcoin arbitrage opportunities
+An in depth look into Bitcoin arbitrage opportunities during the first quarter of 2018
 ---
 
 ## Technologies
 
-THe followiong import/modules were used:
+The followiong import/modules were used:
 
 Panda's-
 Path from pathlib-
 Matplotlib inline-
-
----
-
-## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 ---
 
@@ -29,4 +23,3 @@ This analysis was performed by Derek Hall under the guidance of UNCC-Fintech tea
 
 ##DISCLAIMER
 I’m not a certified financial planner/advisor.  By reviewing this information, you agree to hold me harmless from any ramifications, financial or otherwise, that occur to you as a result of acting on information found in this analysis.
-
